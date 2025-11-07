@@ -1,0 +1,23 @@
+{
+    "userId": "user123",
+    "purchasedProducts": [
+        {
+            "id": "product001",
+            "name": "Camiseta Esportiva"
+        },
+        {
+            "id": "product002",
+            "name": "Tênis de Corrida"
+        },
+
+        {
+            "id": "product002",
+            "name": "Meias"
+        },
+
+        {
+            "id": "product002",
+            "name": "Chuteira de Society"
+        }
+    ]
+}
